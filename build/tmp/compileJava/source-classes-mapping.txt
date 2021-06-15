@@ -2,13 +2,13 @@ com/jong960107/study03_04/Study0304Application.java
  com.jong960107.study03_04.Study0304Application
 com/jong960107/study03_04/domain/MemoRequestDto.java
  com.jong960107.study03_04.domain.MemoRequestDto
-com/jong960107/study03_04/domain/Memo.java
- com.jong960107.study03_04.domain.Memo
+com/jong960107/study03_04/domain/MemoRepository.java
+ com.jong960107.study03_04.domain.MemoRepository
 com/jong960107/study03_04/domain/Timestamped.java
  com.jong960107.study03_04.domain.Timestamped
 com/jong960107/study03_04/service/MemoService.java
  com.jong960107.study03_04.service.MemoService
-com/jong960107/study03_04/domain/MemoRepository.java
- com.jong960107.study03_04.domain.MemoRepository
+com/jong960107/study03_04/domain/Memo.java
+ com.jong960107.study03_04.domain.Memo
 com/jong960107/study03_04/contoller/MemoController.java
  com.jong960107.study03_04.contoller.MemoController

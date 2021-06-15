@@ -2,7 +2,7 @@
 명지대 학생청원 코드(2021/06/15일 완성)
 
 
-![캡처](Users/jongdahyeon/Desktop/1)
+![캡처](Users/jongdahyeon/Desktop/1.png)
 
 
 

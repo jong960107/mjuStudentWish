@@ -1,8 +1,7 @@
+![1](https://user-images.githubusercontent.com/25343700/122091264-96056a00-ce43-11eb-9fe5-287de3601907.png)
 # mjuStudentWish
 명지대 학생청원 코드(2021/06/15일 완성)
 
-
-![캡처](Users/jongdahyeon/Desktop/1.png)
 
 
 
